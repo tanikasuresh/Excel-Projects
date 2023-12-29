@@ -34,23 +34,29 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 #### PivotTable and PivotChart
 ![](Images/1.png)
 #### Recreated Table and Chart
+### `=SUMIFS('Original Data'!Y:Y,'Original Data'!J:J,A2)`
 ![](Images/1R.png)
+
 
 ### Top 10 Categories by Revenue
 #### PivotTable and PivotChart
 ![](Images/2.png)
 #### Recreated Table and Chart
+### `=SUMIFS('Original Data'!Y:Y,'Original Data'!V:V,A2)`
 ![](Images/2R.png)
 
 ### Category Data
 #### PivotTable
 ![](Images/3.png)
 #### Recreated Table
+### `=COUNTIFS('Original Data'!V:V,A2)`
+### `=AVERAGEIFS('Original Data'!W:W,'Original Data'!V:V,A2)`
 ![](Images/3R.png)
 
 ### Cross-tab of Salesperson and Category
 #### PivotTable 
 ![](Images/4.png)
 #### Recreated Table
+### `=SUMIFS('Original Data'!$Y:$Y,'Original Data'!$V:$V,$A2,'Original Data'!$J:$J,B$1)/SUM('Original Data'!$Y:$Y)`
 ![](Images/4R.png)
 

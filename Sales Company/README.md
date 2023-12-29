@@ -43,14 +43,14 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 ![](Images/2R.png)
 
 ### Category Data
-#### PivotTable and PivotChart
+#### PivotTable
 ![](Images/3.png)
-#### Recreated Table and Chart
+#### Recreated Table
 ![](Images/3R.png)
 
 ### Cross-tab of Salesperson and Category
-#### PivotTable and PivotChart
+#### PivotTable 
 ![](Images/4.png)
-#### Recreated Table and Chart
+#### Recreated Table
 ![](Images/4R.png)
 

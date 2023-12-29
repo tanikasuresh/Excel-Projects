@@ -33,3 +33,24 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 ### Revenue by Salesperson
 #### PivotTable and PivotChart
 ![](Images/1.png)
+#### Recreated Table and Chart
+![](Images/1R.png)
+
+### Top 10 Categories by Revenue
+#### PivotTable and PivotChart
+![](Images/2.png)
+#### Recreated Table and Chart
+![](Images/2R.png)
+
+### Category Data
+#### PivotTable and PivotChart
+![](Images/3.png)
+#### Recreated Table and Chart
+![](Images/3R.png)
+
+### Cross-tab of Salesperson and Category
+#### PivotTable and PivotChart
+![](Images/4.png)
+#### Recreated Table and Chart
+![](Images/4R.png)
+

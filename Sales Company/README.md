@@ -34,7 +34,7 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 #### PivotTable and PivotChart
 ![](Images/1.png)
 #### Recreated Table and Chart
-### `=SUMIFS('Original Data'!Y:Y,'Original Data'!J:J,A2)`
+### Sum of Revenue: `=SUMIFS('Original Data'!Y:Y,'Original Data'!J:J,A2)`
 ![](Images/1R.png)
 
 
@@ -42,15 +42,17 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 #### PivotTable and PivotChart
 ![](Images/2.png)
 #### Recreated Table and Chart
-### `=SUMIFS('Original Data'!Y:Y,'Original Data'!V:V,A2)`
+### Sum of Revenue: `=SUMIFS('Original Data'!Y:Y,'Original Data'!V:V,A2)`
 ![](Images/2R.png)
 
 ### Category Data
 #### PivotTable
 ![](Images/3.png)
 #### Recreated Table
-### `=COUNTIFS('Original Data'!V:V,A2)`
-### `=AVERAGEIFS('Original Data'!W:W,'Original Data'!V:V,A2)`
+### Count of Product: `=COUNTIFS('Original Data'!V:V,A2)`
+### Sum of Revenue:`=SUMIFS('Original Data'!Y:Y,'Original Data'!V:V,A2)`
+### Sum of Quantity: `=SUMIFS('Original Data'!X:X,'Original Data'!V:V,A2)`
+### Average Unit Price: `=AVERAGEIFS('Original Data'!W:W,'Original Data'!V:V,A2)`
 ![](Images/3R.png)
 
 ### Cross-tab of Salesperson and Category

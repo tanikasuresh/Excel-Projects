@@ -30,4 +30,6 @@ To teach us how how to use Excel PivotTables, PivotCharts, and a few functions, 
 
 With these records, we can create various PivotTables and PivotCharts, and recreate those with the Pivot feature using Excel functions like sumifs, countifs, and averageifs.
 
+### Revenue by Salesperson
+#### PivotTable and PivotChart
 ![](Images/1.png)

@@ -62,3 +62,8 @@ With these records, we can create various PivotTables and PivotCharts, and recre
 ### `=SUMIFS('Original Data'!$Y:$Y,'Original Data'!$V:$V,$A2,'Original Data'!$J:$J,B$1)/SUM('Original Data'!$Y:$Y)`
 ![](Images/4R.png)
 
+## Final Comments
+By comparing the tables and charts created using Excel's Pivot feature and different Excel functions, it is clear that they are identical. However, using the Pivot feature is far more quick and efficient for daily use. 
+
+This assignment was an excellent introduction into Excel and the various ways you can wield it analyze data!
+

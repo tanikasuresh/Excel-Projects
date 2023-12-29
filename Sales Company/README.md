@@ -28,4 +28,4 @@ To teach us how how to use Excel PivotTables, PivotCharts, and a few functions, 
 - Revenue
 - Shipping Fee
 
-With these records, we can create various PivotTables and PivotCharts, and recreate those using Excel functions like sumifs, countifs, and averageifs.
+With these records, we can create various PivotTables and PivotCharts, and recreate those with the Pivot feature using Excel functions like sumifs, countifs, and averageifs.

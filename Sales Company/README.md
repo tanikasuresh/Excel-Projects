@@ -1,6 +1,6 @@
 ## Excel
 
-To teach us how how to use Excel PivotTables, PivotCharts, and a few functions, the professor provided the class with a fictional company's sales spreadsheet that includes the following attributes:
+To practice using Excel PivotTables, PivotCharts, and a few functions, we were provided with a fictional company's sales spreadsheet that includes the following attributes:
 - Order ID
 - Order Date
 - Customer ID
@@ -28,7 +28,7 @@ To teach us how how to use Excel PivotTables, PivotCharts, and a few functions, 
 - Revenue
 - Shipping Fee
 
-With these records, we can create various PivotTables and PivotCharts, and recreate those with the Pivot feature using Excel functions like sumifs, countifs, and averageifs.
+With these records, we can create various PivotTables and PivotCharts, and also recreate them manually using Excel functions like sumifs, countifs, and averageifs.
 
 ### Revenue by Salesperson
 #### PivotTable and PivotChart

@@ -16,6 +16,9 @@ If we take a look at Jan Kotas' sales breakdown, we see that a little over 50% o
 
 ![](Images/JanKotas.png)
 
+
+
+
 The remaining graphs show the company's customer base, quantity of products sold, and the number of transaction per month. We see that the sales company has a diverse mix of customers. However, if we use the Category slicer to the right, we can see what companies are responsible for buying products within each category. 
 
 For example, categories like Beverages perform better due to a diverse set of customers that buy a lot and have multiple transactions throughout the month and year at an average price of $22. 
@@ -26,13 +29,22 @@ Jams, Preserves also generates high revenue, despite having a lower quantity sol
 
 ![](Images/JamsPreserves.png)
 
+
+
+
 Categories like Soups sell in a similar manner to Jams, Preserves in terms of quantity and number of transactions per month, however, they do not generate much revenue due to a low unit price of $10.
 
 ![](Images/Soups.png)
 
+
+
+
 And finally, Grains (the lowest revenue-generating category) is the opposite of Beverages because it only has one customer that also buys a small quantity with a low average unit price of $7.
 
-![](Images/Grains.png)
+![](Images/1Grains.png)
+
+
+
 
 Based on these insights, it is evident that revenue performance may be influenced by a combination of sales performance by certain individuals, the buying habits of the current customer base, and unit price. Further analysis may narrow down which of the three factors may result in improvement in sales and revenues. In the case of grains, branching out to target companies that sell such items and would be more likely to consistently buy such products may be the solution to increasing revenues
 

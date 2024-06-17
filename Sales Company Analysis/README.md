@@ -40,8 +40,10 @@ Categories like Soups sell in a similar manner to Jams, Preserves in terms of qu
 ![](Images/Soups.png)
 <pre></pre>
 
-And finally, Grains (the lowest revenue-generating category) is the opposite of Beverages because it only has one customer that also buys a small quantity with a low average unit price of $7.
+And finally, Grains (the lowest revenue-generating category) is the opposite of Beverages because it only has one customer that also buys a small quantity with a low average unit price of $7. In the case of Grains (and other poorly-performing categories), branching out to target companies that sell such items and would be more likely to make multiple transactions per month and throughout the year may be the solution to increasing revenues, rather than sticking with the current customer base who occasionally buy from those product categories.
 
 ![](Images/1Grains.png)
 <pre></pre>
-Based on these insights, it is evident that revenue performance may be influenced by a combination of sales performance by certain individuals, the buying habits of the current customer base, and unit price. Further analysis may narrow down which of the three factors may result in improvement in sales and revenues. In the case of grains, branching out to target companies that sell such items and would be more likely to consistently buy such products may be the solution to increasing revenues.
+
+### Conclusion
+Based on these insights, it is evident that revenue performance may be influenced by a combination of sales performance by the company's salespeople, the buying habits of the current customer base, and unit price. 

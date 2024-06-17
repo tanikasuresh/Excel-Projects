@@ -14,7 +14,7 @@ The next graph displays the salespeople and a breakdown of the products they sel
 
 If we take a look at Jan Kotas' sales breakdown, we see that a little over 50% of the sales comes from the Candy and Fruits & Veg categories, which, as previously seen, bring in a small fraction of revenue compared to categories like Beverages.
 
-Next is a pie chart of the company's customer base. We see that the company has a diverse mix of customers. However, if we use the Category slicer to the right, we can see what companies are responsible for buying within each category. 
+The remaining graphs show the company's customer base, quantity of products sold, and the number of transaction per month. We see that the sales company has a diverse mix of customers. However, if we use the Category slicer to the right, we can see what companies are responsible for buying products within each category. 
 
 For example, categories like Beverages perform better due to a diverse set of customers that buy a lot and have multiple transactions throughout the month and year at an average price of $22. 
 
